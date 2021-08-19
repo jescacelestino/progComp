@@ -6,12 +6,10 @@ public class VerificaTecla
     public VerificaTecla()
     {
         Console.WriteLine(">>>> Pressione qualquer tecla para começar <<<<");
-        if (Console.ReadKey().Key == ConsoleKey.Enter)
-        {
+        if (Console.ReadKey().Key == ConsoleKey.Enter) {
             Console.WriteLine("Você pressionou a tecla ENTER!");
         }
-        else
-        {
+        else {
             Console.WriteLine("Você pressionou a tecla " + Console.ReadKey().Key);
         }
     }
