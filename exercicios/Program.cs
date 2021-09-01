@@ -9,6 +9,7 @@ namespace exercicios
             new PontuacaoJogador();
             new VerificaTecla();
             new ToString();
+            new TratandoExcecoes();
         }
     }
 }

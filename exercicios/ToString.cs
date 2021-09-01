@@ -1,4 +1,5 @@
 ﻿using System;
+
 public class ToString
 {
     /* Exemplo de conversão para String. Cálculo do Salário Líquido.*/
