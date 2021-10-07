@@ -10,6 +10,7 @@ namespace exercicios
             new VerificaTecla();
             new ToString();
             new TratandoExcecoes();
+            new Avaliacao();
         }
     }
 }
